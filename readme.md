@@ -16,6 +16,13 @@ The goal of this work is to enable multi-robot transportation systems to navigat
 - **Python 3.9** or higher
 - Dependencies listed in `requirements.txt`
 
+## Demo Video
+
+https://github.com/user-attachments/assets/d00e2257-382a-4d05-874a-32185cec3c5f
+
+*The file is also available in the repository as "demo_video.mp4*
+
+
 ---
 
 *For more details, please refer to our paper submitted to RA-L.*
